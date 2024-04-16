@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GG-Sans-Bold.ttf",
+      "sha1": "5a9dd7b202c26202ad65468677b5b4fe696a3e71"
+    },
+    {
+      "path": "assets/fonts/GG-Sans-Medium.ttf",
+      "sha1": "6571875fa0fafbdec449eea8ed65baadab8840a2"
+    },
+    {
+      "path": "assets/fonts/ggSansRegular.ttf",
+      "sha1": "9ff8cec05498aa617f7aed60fcb853c06e2ffe1e"
+    },
+    {
+      "path": "assets/fonts/ggSansSemibold.ttf",
+      "sha1": "cf6b5ebd9e4fdc621c2881e186320be85bc1234c"
+    }
+  ]
+}
